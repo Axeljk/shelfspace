@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shelfspace/static/css/main.073c9b0a.css",
+    "main.js": "/shelfspace/static/js/main.f20745ee.js",
+    "static/js/787.03b1dd04.chunk.js": "/shelfspace/static/js/787.03b1dd04.chunk.js",
+    "static/media/logo.svg": "/shelfspace/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shelfspace/index.html",
+    "main.073c9b0a.css.map": "/shelfspace/static/css/main.073c9b0a.css.map",
+    "main.f20745ee.js.map": "/shelfspace/static/js/main.f20745ee.js.map",
+    "787.03b1dd04.chunk.js.map": "/shelfspace/static/js/787.03b1dd04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f20745ee.js"
+  ]
+}
